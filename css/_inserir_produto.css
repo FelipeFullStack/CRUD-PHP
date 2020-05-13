@@ -1,0 +1,11 @@
+.container{
+    padding-top: 30px;
+    width: 500px;
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+#botao{
+    text-align: center;
+    padding-top: 20px;
+}
